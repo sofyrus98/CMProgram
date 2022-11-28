@@ -1,0 +1,1524 @@
+﻿Log file open, 11/28/22 05:16:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CMProgra
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208028
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AppleProResMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.28-11.16.49:799][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.28-11.16.49:799][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:800][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:813][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.28-11.16.49:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.28-11.16.49:814][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.28-11.16.49:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.28-11.16.49:814][  0]LogHAL: Display: Platform has ~ 16 GB [17125924864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.28-11.16.49:814][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.28-11.16.49:814][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Scalability.ini]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.28-11.16.49:815][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.28-11.16.49:816][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.28-11.16.49:816][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.28-11.16.49:816][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.28-11.16.49:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Engine.ini]
+[2022.11.28-11.16.49:816][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Config/Windows/Editor.ini]
+[2022.11.28-11.16.49:816][  0]LogInit: Computer: DESKTOP-CCP7KKV
+[2022.11.28-11.16.49:816][  0]LogInit: User: Daniel
+[2022.11.28-11.16.49:816][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.28-11.16.49:816][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.28-11.16.49:816][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.28-11.16.49:816][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.28-11.16.49:816][  0]LogMemory: Process Physical Memory: 141.55 MB used, 141.55 MB peak
+[2022.11.28-11.16.49:816][  0]LogMemory: Process Virtual Memory: 116.36 MB used, 116.36 MB peak
+[2022.11.28-11.16.49:816][  0]LogMemory: Physical Memory: 6287.71 MB used,  10044.84 MB free, 16332.55 MB total
+[2022.11.28-11.16.49:816][  0]LogMemory: Virtual Memory: 134212160.00 MB used,  5567.44 MB free, 134217728.00 MB total
+[2022.11.28-11.16.49:822][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.28-11.16.49:863][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.28-11.16.49:864][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.11.28-11.16.49:864][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2022.11.28-11.16.50:027][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.28-11.16.50:037][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.28-11.16.50:049][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.28-11.16.50:049][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.28-11.16.50:235][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.28-11.16.50:235][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.28-11.16.50:235][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.28-11.16.50:235][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.28-11.16.50:339][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.11.28-11.16.50:339][  0]LogD3D11RHI:       5992/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.28-11.16.50:341][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.28-11.16.50:341][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.28-11.16.50:341][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.28-11.16.50:347][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.28-11.16.50:347][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.28-11.16.50:347][  0]LogWindows: EnumDisplayDevices:
+[2022.11.28-11.16.50:347][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.11.28-11.16.50:347][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.11.28-11.16.50:347][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.11.28-11.16.50:348][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.11.28-11.16.50:348][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.28-11.16.50:348][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.11.28-11.16.50:348][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.28-11.16.50:348][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.11.28-11.16.50:348][  0]LogRHI: Texture pool is 4194 MB (70% of 5992 MB)
+[2022.11.28-11.16.50:408][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.28-11.16.50:408][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.28-11.16.50:408][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.28-11.16.50:422][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.28-11.16.50:423][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.28-11.16.50:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.28-11.16.50:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.28-11.16.50:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.28-11.16.50:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.28-11.16.50:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.28-11.16.50:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.28-11.16.50:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.28-11.16.50:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.28-11.16.50:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.28-11.16.50:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.28-11.16.50:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.28-11.16.50:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.28-11.16.50:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.28-11.16.50:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.28-11.16.50:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.28-11.16.50:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.28-11.16.50:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.28-11.16.50:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.28-11.16.50:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.28-11.16.50:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.28-11.16.50:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.28-11.16.50:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.28-11.16.50:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.28-11.16.50:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.28-11.16.50:897][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.28-11.16.50:954][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.28-11.16.50:954][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Intermediate/Shaders/WorkingDirectory/17180/).
+[2022.11.28-11.16.50:954][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Igniter/AppData/Local/Temp/UnrealShaderWorkingDir/3488B91F44861D9C461A0AAF690FA063/'.
+[2022.11.28-11.16.50:954][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.28-11.16.50:954][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.28-11.16.51:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/Igniter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Igniter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.28-11.16.51:632][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.28-11.16.51:643][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.28-11.16.51:643][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.28-11.16.51:643][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.28-11.16.51:653][  0]LogDerivedDataCache: Speed tests for C:/Users/Igniter/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.28-11.16.51:654][  0]LogDerivedDataCache: Display: Performance to C:/Users/Igniter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=288.19MBs, RandomWriteSpeed=148.91MBs. Assigned SpeedClass 'Local'
+[2022.11.28-11.16.51:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Igniter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.28-11.16.51:654][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.28-11.16.51:654][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.28-11.16.51:697][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.28-11.16.51:698][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.28-11.16.51:720][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.11.28-11.16.51:930][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.28-11.16.51:930][  0]LogInit: Active device profile: [000001DF6C279D00][000001DF6A4465C0 49] Windows
+[2022.11.28-11.16.51:930][  0]LogInit: Profiles: [000001DF6C279D00][000001DF6A4465C0 49] Windows, [000001DF6C22EC00][000001DF6B77E740 49] WindowsNoEditor, [000001DF6C278D00][000001DF6B7828C0 49] WindowsServer, [000001DF6C22F800][000001DF6B786A40 49] WindowsClient, [000001DF6C27AA00][000001DF6B78ABC0 49] IOS, [000001DF6C22E200][000001DF6B78ED40 49] iPadAir, [000001DF6C27AD00][000001DF6B792EC0 49] iPadAir2, [000001DF6C1E3000][000001DF6B79B180 49] IPadPro, [000001DF6C1E3100][000001DF6B7971C0 49] iPadAir3, [000001DF6C279500][000001DF6B79F340 49] iPadAir4, [000001DF6C1E2800][000001DF6B7A34C0 49] iPadMini2, [000001DF6C27B200][000001DF6B7A7640 49] iPadMini3, [000001DF6C1E1600][000001DF6A44B780 49] iPadMini4, [000001DF6C279200][000001DF6B7BB8C0 49] iPadMini5, [000001DF6C222900][000001DF6B7D9B40 49] iPhone6, [000001DF6C222A00][000001DF6B7D1B80 49] iPodTouch6, [000001DF6C1E3600][000001DF6B7F4180 49] iPhone7, [000001DF6C1E3700][000001DF6B7EC1C0 49] iPodTouch7, [000001DF6C222700][000001DF6B7F8340 49] iPhone5S, [000001DF6C1E0100][000001DF6B7FC4C0 49] iPhone6Plus, [000001DF6C221400][000001DF6B804640 49] iPhone6S, [000001DF6C1E0700][000001DF4DAA27C0 49] iPhone6SPlus, [000001DF6C220200][000001DF4DAA6940 49] iPhone7Plus, [000001DF6C1E2600][000001DF4DABAAC0 49] iPhoneSE, [000001DF6C223000][000001DF6B808C40 49] iPhone8, [000001DF6C1E3F00][000001DF6B80CDC0 49] iPhone8Plus, [000001DF6C221C00][000001DF6B810F40 49] iPhoneX, [000001DF6C1E2300][000001DF6B8150C0 49] iPhoneXS, [000001DF6C220400][000001DF6B82D240 49] iPhoneXSMax, [000001DF6C1E3C00][000001DF6B8313C0 49] iPhoneXR, [000001DF6C223E00][000001DF6B835540 49] iPhone11, [000001DF6C1E2000][000001DF6B83D6C0 49] iPhone11Pro, [000001DF6C223500][000001DF6B7D5800 49] iPhone11ProMax, [000001DF6C1E2C00][000001DF6B84B940 49] iPhoneSE2, [000001DF6C223700][000001DF6B84FA80 49] iPhone12Mini, [000001DF6C1E0B00][000001DF6C875C00 49] iPhone12, [000001DF6C222300][000001DF6C8780C0 49] iPhone12Pro, [000001DF6C1E3400][000001DF6C87C240 49] iPhone12ProMax, [000001DF6C1E2900][000001DF6C8803C0 49] iPadPro105, [000001DF6C22DB00][000001DF6C884540 49] iPadPro129, [000001DF6C1E0F00][000001DF6C8886C0 49] iPadPro97, [000001DF6C22E700][000001DF6C88C840 49] iPadPro2_129, [000001DF6C1E3900][000001DF6C8909C0 49] iPad5, [000001DF6C22E400][000001DF6C894B40 49] iPad6, [000001DF6C1E2D00][000001DF6C898CC0 49] iPad7, [000001DF6C22ED00][000001DF6C89CE40 49] iPad8, [000001DF6C22CC00][000001DF6C8A0FC0 49] iPadPro11, [000001DF6C223D00][000001DF6C8C5140 49] iPadPro2_11, [000001DF6C22D100][000001DF6C8C92C0 49] iPadPro3_129, [000001DF6C220B00][000001DF6C8CD440 49] iPadPro4_129, [000001DF6C22EA00][000001DF6C8D15C0 49] AppleTV, [000001DF6C221000][000001DF6C8D5740 49] AppleTV4K, [000001DF6C22C600][000001DF6C871880 49] TVOS, [000001DF6C223F00][000001DF6C8D99C0 49] Mac, [000001DF6C22C200][000001DF6C8DDB00 49] MacClient, [000001DF6C1E0800][000001DF6C8E1C40 49] MacNoEditor, [000001DF6C22F100][000001DF6C8E8100 49] MacServer, [000001DF6C1E0200][000001DF6C8EC280 49] Linux, [000001DF6C22D600][000001DF6C8F0400 49] LinuxAArch64, [000001DF6C1E2A00][000001DF6C8F4580 49] LinuxNoEditor, [000001DF6C22DC00][000001DF6C8F8700 49] LinuxAArch64NoEditor, [000001DF6C1E3E00][000001DF6C8FC880 49] LinuxClient, [000001DF6C22CB00][000001DF6C900A00 49] LinuxAArch64Client, [000001DF6C1E3B00][000001DF6C904B80 49] LinuxServer, [000001DF6C22C800][000001DF6C908D00 49] LinuxAArch64Server, [000001DF6C1E3500][000001DF6C90CE80 49] Android, [000001DF6C22F000][000001DF6C911000 49] Android_Low, [000001DF6C1E2700][000001DF6C915180 49] Android_Mid, [000001DF6C22F700][000001DF6C919300 49] Android_High, [000001DF6C1E1500][000001DF6C91D480 49] Android_Default, [000001DF6C22D700][000001DF6C921600 49] Android_Adreno4xx, [000001DF6C1E1200][000001DF6C961780 49] Android_Adreno5xx_Low, [000001DF6C22CD00][000001DF6C8E58C0 49] Android_Adreno5xx, [000001DF6C1E0D00][000001DF6C965A00 49] Android_Adreno6xx, [000001DF6C22C700][000001DF6C969B40 49] Android_Adreno6xx_Vulkan, [000001DF6C1E0300][000001DF6C96DC80 49] Android_Mali_T6xx, [000001DF6C22C500][000001DF6C974140 49] Android_Mali_T7xx, [000001DF6C1E1400][000001DF6C9782C0 49] Android_Mali_T8xx, [000001DF6C22DF00][000001DF6C97C440 49] Android_Mali_G71, [000001DF6C1E1900][000001DF6C9805C0 49] Android_Mali_G72, [000001DF6C22C100][000001DF6C984740 49] Android_Mali_G72_Vulkan, [000001DF6C1E2400][000001DF6C9888C0 49] Android_Mali_G76, [000001DF6C22DD00][000001DF6C98CA40 49] Android_Mali_G76_Vulkan, [000001DF6C1E0A00][000001DF6C990BC0 49] Android_Mali_G77, [000001DF6C22E300][000001DF6C994D40 49] Android_Mali_G77_Vulkan, [000001DF6C1E1800][000001DF6C998EC0 49] Android_Vulkan_SM5, [000001DF6C22CF00][000001DF6C99D040 49] Android_PowerVR_G6xxx, [000001DF6C1E2B00][000001DF6C9A11C0 49] Android_PowerVR_GT7xxx, [000001DF6C22D300][000001DF6C9A5340 49] Android_PowerVR_GE8xxx, [000001DF6C1E1E00][000001DF6C9A94C0 49] Android_PowerVR_GM9xxx, [000001DF6C22FE00][000001DF6C9AD640 49] Android_PowerVR_GM9xxx_Vulkan, [000001DF6C1E1000][000001DF6C9B17C0 49] Android_TegraK1, [000001DF6C22EF00][000001DF6C9B5940 49] Android_Unknown_Vulkan, [000001DF6C222200][000001DF6C971A80 49] Lumin, [000001DF6C278200][000001DF6C9B9BC0 49] Lumin_Desktop, [000001DF6C223300][000001DF6C9BDD00 49] HoloLens, 
+[2022.11.28-11.16.52:022][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.28-11.16.52:022][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.28-11.16.52:022][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.28-11.16.52:022][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.28-11.16.52:022][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.28-11.16.52:036][  0]LogNetVersion: CMProgra 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 821082644)
+[2022.11.28-11.16.52:393][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.28-11.16.52:425][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.031531 seconds
+[2022.11.28-11.16.52:430][  0]LogUObjectArray: 16850 objects as part of root set at end of initial load.
+[2022.11.28-11.16.52:430][  0]LogUObjectAllocator: 4215264 out of 0 bytes used by permanent object pool.
+[2022.11.28-11.16.52:430][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.28-11.16.52:685][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.28-11.16.52:689][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.28-11.16.52:855][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.52:855][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.52:912][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.52:915][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.52:978][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.52:984][  0]LogUProjectInfo: Found projects:
+[2022.11.28-11.16.53:078][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.28-11.16.53:095][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.28-11.16.53:095][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.28-11.16.53:159][  0]LogCollectionManager: Loaded 0 collections in 0.000686 seconds
+[2022.11.28-11.16.53:179][  0]LogFileCache: Scanning file cache for directory 'D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/Collections/' took 0.00s
+[2022.11.28-11.16.53:179][  0]LogFileCache: Scanning file cache for directory 'D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/Developers/Daniel/Collections/' took 0.00s
+[2022.11.28-11.16.53:179][  0]LogFileCache: Scanning file cache for directory 'D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/Collections/' took 0.00s
+[2022.11.28-11.16.53:179][  0]LogOcInput: OculusInput pre-init called
+[2022.11.28-11.16.53:188][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.28-11.16.53:188][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.28-11.16.53:232][  0]LogEngine: Initializing Engine...
+[2022.11.28-11.16.53:233][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.28-11.16.53:233][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.28-11.16.53:234][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.28-11.16.53:329][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.28-11.16.53:336][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.28-11.16.53:337][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.28-11.16.53:340][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.28-11.16.53:340][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.28-11.16.53:340][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.28-11.16.53:340][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-11.16.53:341][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.28-11.16.53:341][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.28-11.16.53:357][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.28-11.16.53:357][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.28-11.16.53:393][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Razer Audio Controller - Game)
+[2022.11.28-11.16.53:396][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-11.16.53:398][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-11.16.53:398][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-11.16.53:399][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.28-11.16.53:399][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.28-11.16.53:399][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.28-11.16.53:400][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.28-11.16.53:400][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.28-11.16.53:400][  0]LogInit: FAudioDevice initialized.
+[2022.11.28-11.16.53:400][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.28-11.16.53:400][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.28-11.16.53:529][  0]LogDerivedDataCache: Saved boot cache 0.13s 79MB C:/Users/Igniter/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.28-11.16.53:531][  0]LogInit: Texture streaming: Enabled
+[2022.11.28-11.16.53:542][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.28-11.16.53:546][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.28-11.16.53:546][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.28-11.16.53:547][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.28-11.16.53:573][  0]LogInit: Transaction tracking system initialized
+[2022.11.28-11.16.53:597][  0]BlueprintLog: New page: Editor Load
+[2022.11.28-11.16.53:663][  0]LocalizationService: Localization service is disabled
+[2022.11.28-11.16.53:685][  0]TimingProfiler: Initialize
+[2022.11.28-11.16.53:685][  0]TimingProfiler: OnSessionChanged
+[2022.11.28-11.16.53:685][  0]LoadingProfiler: Initialize
+[2022.11.28-11.16.53:685][  0]LoadingProfiler: OnSessionChanged
+[2022.11.28-11.16.53:685][  0]NetworkingProfiler: Initialize
+[2022.11.28-11.16.53:685][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.28-11.16.53:685][  0]MemoryProfiler: Initialize
+[2022.11.28-11.16.53:685][  0]MemoryProfiler: OnSessionChanged
+[2022.11.28-11.16.53:807][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.28-11.16.53:807][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.28-11.16.53:963][  0]LogFileCache: Scanning file cache for directory 'D:/Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/' took 0.02s
+[2022.11.28-11.16.54:113][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.28-11.16.54:116][  0]SourceControl: Source control is disabled
+[2022.11.28-11.16.54:116][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.328
+[2022.11.28-11.16.54:116][  0]Cmd: MAP LOAD FILE="../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/Menu/MainMContactM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.28-11.16.54:116][  0]LightingResults: New page: Lighting Build
+[2022.11.28-11.16.54:117][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.16.54:117][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.16.54:117][  0]MapCheck: New page: Map Check
+[2022.11.28-11.16.54:117][  0]LightingResults: New page: Lighting Build
+[2022.11.28-11.16.54:122][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.28-11.16.54:162][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMContactM'.
+[2022.11.28-11.16.54:163][  0]LogAIModule: Creating AISystem for world MainMContactM
+[2022.11.28-11.16.54:164][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.28-11.16.54:167][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.28-11.16.54:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.28-11.16.54:169][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2022.11.28-11.16.54:169][  0]LogFileHelpers: Loading map 'MainMContactM' took 0.053
+[2022.11.28-11.16.54:171][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.383
+[2022.11.28-11.16.54:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.16.54:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.16.54:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.16.54:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.16.54:312][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3667 classes and 883 folders.
+[2022.11.28-11.16.54:314][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.28-11.16.54:315][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.28-11.16.54:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.28-11.16.54:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.11.28-11.16.54:316][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.28-11.16.54:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.28-11.16.54:316][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.28-11.16.54:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:317][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.28-11.16.54:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.11.28-11.16.54:318][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.28-11.16.54:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.28-11.16.54:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.28-11.16.54:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.28-11.16.54:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.11.28-11.16.54:320][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.28-11.16.54:320][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:320][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.28-11.16.54:320][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.11.28-11.16.54:321][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.28-11.16.54:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.28-11.16.54:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.11.28-11.16.54:321][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.28-11.16.54:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.28-11.16.54:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.28-11.16.54:322][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.28-11.16.54:322][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:322][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.28-11.16.54:322][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.11.28-11.16.54:323][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.28-11.16.54:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.28-11.16.54:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.28-11.16.54:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:324][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.28-11.16.54:324][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.28-11.16.54:325][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.28-11.16.54:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.28-11.16.54:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.28-11.16.54:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.28-11.16.54:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.11.28-11.16.54:327][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.28-11.16.54:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.28-11.16.54:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.28-11.16.54:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:328][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.28-11.16.54:328][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.11.28-11.16.54:329][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.28-11.16.54:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.28-11.16.54:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.28-11.16.54:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.28-11.16.54:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.11.28-11.16.54:331][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.28-11.16.54:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.28-11.16.54:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.11.28-11.16.54:332][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.28-11.16.54:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.28-11.16.54:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.11.28-11.16.54:333][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.28-11.16.54:333][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.28-11.16.54:333][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.28-11.16.54:333][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.11.28-11.16.54:382][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.28-11.16.54:384][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.11.28-11.16.54:720][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.28-11.16.54:808][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.28-11.16.54:810][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.28-11.16.54:813][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.28-11.16.54:876][  0]LogRenderer: Reallocating scene render targets to support 868x224 Format 10 NumSamples 1 (Frame:1).
+[2022.11.28-11.16.55:147][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.11.28-11.16.55:147][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.11.28-11.16.55:147][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.11.28-11.16.55:147][  0]LogLoad: (Engine Initialization) Total time: 6.36 seconds
+[2022.11.28-11.16.55:147][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.28-11.16.55:147][  0]LogInit: First time updating LLM stats...
+[2022.11.28-11.16.55:190][  0]LogAssetRegistry: Asset discovery search completed in 3.4704 seconds
+[2022.11.28-11.16.55:191][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.28-11.16.55:191][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.28-11.16.55:301][  3]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.28-11.16.56:166][ 87]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.28-11.17.01:396][636]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetsPhone/LevelTips_Widget.LevelTips_Widget
+[2022.11.28-11.17.01:469][636]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.11.28-11.17.02:458][636]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.28-11.17.06:307][ 80]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.17.06:307][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.17.06:314][ 80]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.17.06:314][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.17.08:938][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.11.28-11.17.13:821][366]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.17.32:466][363]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WidgetsPhone/LevelTips_Widget.LevelTips_Widget
+[2022.11.28-11.17.35:398][663]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.17.35:399][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.17.35:405][663]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.17.35:405][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.17.55:271][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.11.28-11.17.55:458][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.28-11.17.55:469][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.28-11.17.55:480][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.28-11.17.55:499][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.28-11.17.55:510][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.28-11.17.57:829][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.28-11.18.04:352][ 65]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.18.04:376][ 65]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/Widgets/LevelTips_Widget.LevelTips_Widget
+[2022.11.28-11.18.07:972][414]LogSlate: Window 'LevelTips_Widget' being destroyed
+[2022.11.28-11.18.09:612][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.28-11.18.21:312][592]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.18.47:102][343]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.11.28-11.18.47:106][343]LogSlate: Window 'Reference Viewer' being destroyed
+[2022.11.28-11.18.55:946][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.28-11.18.56:052][226]LogSavePackage: Moving '../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/MapBlockOut701FE41742000DD2375A1EA7AD4845D9.tmp' to '../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/MapasC/MapBlockOut.umap'
+[2022.11.28-11.18.56:065][226]LogFileHelpers: Saving map 'MapBlockOut' took 0.165
+[2022.11.28-11.18.56:094][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.28-11.18.56:224][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.28-11.18.56:236][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.28-11.18.56:253][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.28-11.18.56:264][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.28-11.18.56:270][226]AssetCheck: New page: Asset Save: MapBlockOut
+[2022.11.28-11.18.56:270][226]LogContentValidation: Display: Validating World /Game/MapasC/MapBlockOut.MapBlockOut
+[2022.11.28-11.18.58:222][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.28-11.19.06:492][390]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.19.06:529][390]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/WidgetsPhone/LevelTips_Widget.LevelTips_Widget
+[2022.11.28-11.19.07:019][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.28-11.19.07:034][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.28-11.19.07:045][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.28-11.19.36:800][368]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.28-11.19.36:807][368]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.28-11.19.36:807][368]LogPlayLevel: [PlayLevel] Compiling MapBlockOut before play...
+[2022.11.28-11.19.36:808][368]LogBlueprint: Error: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\MapasC\MapBlockOut.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.11.28-11.19.36:837][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.28-11.19.36:840][368]LogPlayLevel: PlayLevel: Blueprint regeneration took 33 ms (1 blueprints)
+[2022.11.28-11.19.36:840][368]BlueprintLog: Warning: Blueprint failed to compile:  MapBlockOut
+[2022.11.28-11.19.36:840][368]LogCustomDialog: Dialog displayed:
+[2022.11.28-11.19.41:536][368]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.11.28-11.19.41:603][368]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.28-11.19.42:973][513]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-11.19.42:976][513]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-11.19.47:763][955]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.11.28-11.19.47:768][955]LogObjectTools: Deleting 2 worlds: /Game/MapasC/MapBlockOut.MapBlockOut, /Game/MapasC/testmap.testmap
+[2022.11.28-11.19.47:768][955]LogObjectTools: Currently 2 active worlds: /Game/Menu/MainMContactM.MainMContactM, /Engine/Transient.World_0
+[2022.11.28-11.19.47:781][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.28-11.19.50:380][955]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.19.50:393][955]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/MapasC/MapBlockOut.MapBlockOut
+	Asset Name: /Game/MapasC/MapBlockOut_BuiltData.MapBlockOut_BuiltData
+	Asset Name: /Game/MapasC/testmap.testmap
+	Asset Name: /Game/MapasC/testmap_BuiltData.testmap_BuiltData
+[2022.11.28-11.19.50:644][955]LogWorld: UWorld::CleanupWorld for MapBlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.19.50:645][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.19.50:777][955]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.11.28-11.19.50:863][955]LogWorld: UWorld::CleanupWorld for testmap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.19.50:863][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.19.51:396][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.11.28-11.19.51:411][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.28-11.19.51:422][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.28-11.19.51:432][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.11.28-11.19.51:445][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.28-11.19.51:456][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.28-11.19.56:046][459]LogRenderer: Reallocating scene render targets to support 868x256 Format 10 NumSamples 1 (Frame:1).
+[2022.11.28-11.19.58:813][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MC_BP.MC_BP
+[2022.11.28-11.19.59:375][745]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.28-11.20.00:662][879]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.20.00:662][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.20.03:426][136]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.28-11.20.03:432][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-11.20.03:432][136]PIE: New page: PIE session: MainMContactM (Nov 27, 2022, 11:20:03 PM)
+[2022.11.28-11.20.03:433][136]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.11.28-11.20.03:434][136]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.28-11.20.03:434][136]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMContactM
+[2022.11.28-11.20.03:435][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000993s)
+[2022.11.28-11.20.03:436][136]LogAIModule: Creating AISystem for world MainMContactM
+[2022.11.28-11.20.03:436][136]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2022.11.28-11.20.03:436][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMContactM.MainMContactM to /Game/Menu/UEDPIE_0_MainMContactM.MainMContactM (0.001935s)
+[2022.11.28-11.20.03:453][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.11.28-11.20.03:454][136]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.28-11.20.03:454][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-11.20.03:454][136]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.28-11.20.03:454][136]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.28-11.20.03:458][136]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.28-11.20.03:458][136]LogAudioMixer: Display: 1: FrontRight
+[2022.11.28-11.20.03:477][136]LogAudioMixer: Display: Using Audio Device Altavoces (Razer Audio Controller - Game)
+[2022.11.28-11.20.03:477][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-11.20.03:478][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-11.20.03:478][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-11.20.03:478][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.28-11.20.03:478][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.28-11.20.03:478][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.28-11.20.03:490][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.28-11.20.03:490][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.28-11.20.03:490][136]LogInit: FAudioDevice initialized.
+[2022.11.28-11.20.03:490][136]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMContactM'.
+[2022.11.28-11.20.03:498][136]LogLoad: Game class is 'MainMGameMode_C'
+[2022.11.28-11.20.03:499][136]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMContactM.MainMContactM up for play (max tick rate 0) at 2022.11.28-05.20.03
+[2022.11.28-11.20.03:499][136]LogWorld: Bringing up level for play took: 0.000251
+[2022.11.28-11.20.03:499][136]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.11.28-11.20.03:500][136]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.28-11.20.03:502][136]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.11.28-11.20.03:503][136]PIE: Server logged in
+[2022.11.28-11.20.03:503][136]PIE: Play in editor total start time 0.072 seconds.
+[2022.11.28-11.20.03:509][136]LogAudio: Warning: Detected orphaned looping sound 'MenuMusic'.
+[2022.11.28-11.20.04:862][265]LogRenderer: Reallocating scene render targets to support 868x268 Format 10 NumSamples 1 (Frame:112).
+[2022.11.28-11.20.04:883][266]LogRenderer: Reallocating scene render targets to support 868x296 Format 10 NumSamples 1 (Frame:113).
+[2022.11.28-11.20.04:902][267]LogRenderer: Reallocating scene render targets to support 868x332 Format 10 NumSamples 1 (Frame:114).
+[2022.11.28-11.20.04:922][268]LogRenderer: Reallocating scene render targets to support 868x380 Format 10 NumSamples 1 (Frame:115).
+[2022.11.28-11.20.04:940][269]LogRenderer: Reallocating scene render targets to support 868x432 Format 10 NumSamples 1 (Frame:116).
+[2022.11.28-11.20.04:958][270]LogRenderer: Reallocating scene render targets to support 868x472 Format 10 NumSamples 1 (Frame:117).
+[2022.11.28-11.20.04:997][271]LogRenderer: Reallocating scene render targets to support 868x516 Format 10 NumSamples 1 (Frame:118).
+[2022.11.28-11.20.05:018][272]LogRenderer: Reallocating scene render targets to support 868x580 Format 10 NumSamples 1 (Frame:119).
+[2022.11.28-11.20.05:037][273]LogRenderer: Reallocating scene render targets to support 868x592 Format 10 NumSamples 1 (Frame:120).
+[2022.11.28-11.20.05:057][274]LogRenderer: Reallocating scene render targets to support 868x596 Format 10 NumSamples 1 (Frame:121).
+[2022.11.28-11.20.05:077][275]LogRenderer: Reallocating scene render targets to support 868x600 Format 10 NumSamples 1 (Frame:122).
+[2022.11.28-11.20.05:095][276]LogRenderer: Reallocating scene render targets to support 868x604 Format 10 NumSamples 1 (Frame:123).
+[2022.11.28-11.20.05:114][277]LogRenderer: Reallocating scene render targets to support 868x608 Format 10 NumSamples 1 (Frame:124).
+[2022.11.28-11.20.05:166][281]LogRenderer: Reallocating scene render targets to support 868x612 Format 10 NumSamples 1 (Frame:126).
+[2022.11.28-11.20.07:071][476]LogNet: Browse: /Game/MapasC/1rstLevel
+[2022.11.28-11.20.07:071][476]LogLoad: LoadMap: /Game/MapasC/1rstLevel
+[2022.11.28-11.20.07:071][476]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMContactM
+[2022.11.28-11.20.07:071][476]LogWorld: UWorld::CleanupWorld for MainMContactM, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.20.07:071][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.20.07:104][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-11.20.07:147][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.11.28-11.20.07:570][476]LogAudio: Display: Audio Device (ID: 2) registered with world '1rstLevel'.
+[2022.11.28-11.20.07:571][476]LogAIModule: Creating AISystem for world 1rstLevel
+[2022.11.28-11.20.07:574][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.11.28-11.20.07:604][476]LogWorld: Bringing World /Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel up for play (max tick rate 0) at 2022.11.28-05.20.07
+[2022.11.28-11.20.07:607][476]LogWorld: Bringing up level for play took: 0.032088
+[2022.11.28-11.20.07:611][476]LogLoad: Took 0.540897 seconds to LoadMap(/Game/MapasC/1rstLevel)
+[2022.11.28-11.20.07:661][476]LogAudio: Warning: Detected orphaned looping sound 'GameMusic'.
+[2022.11.28-11.20.16:713][517]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.20.17:438][604]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.20.18:205][696]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.20.23:888][378]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.20.44:450][545]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.28-11.20.44:450][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.11.28-11.20.47:827][916]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.28-11.20.47:827][916]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.28-11.20.49:844][105]LogScript: Warning: Accessed None trying to read property MainCharacter
+	NPCDialog_C /Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.NPCDialog_2
+	Function /Game/DialogSystem/NPCDialog.NPCDialog_C:ExecuteUbergraph_NPCDialog:02D3
+[2022.11.28-11.20.49:844][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property MainCharacter". Blueprint:  NPCDialog Function:  Execute Ubergraph NPCDialog Graph:  EventGraph Node:  SetActorLocationAndRotation
+[2022.11.28-11.21.11:322][216]LogBlueprintUserMessages: [Llave_2] grabkeys
+[2022.11.28-11.21.26:851][833]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.21.29:074][ 49]PIE: Warning: AttachTo: '/Game/MapasC/UEDPIE_0_1rstLevel.1rstLevel:PersistentLevel.MC_BP_C_0.CollisionCylinder' root component cannot be attached to other components in the same actor. Aborting.
+[2022.11.28-11.21.35:699][686]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.28-11.21.35:700][686]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.28-11.21.43:759][477]LogBlueprintUserMessages: [Locker_BP_2] OPEN
+[2022.11.28-11.21.43:760][477]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.28-11.21.43:760][477]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.28-11.21.48:687][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.21.48:687][939]LogWorld: BeginTearingDown for /Game/MapasC/UEDPIE_0_1rstLevel
+[2022.11.28-11.21.48:688][939]LogWorld: UWorld::CleanupWorld for 1rstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.21.48:691][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.21.48:708][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-11.21.48:713][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.21.48:723][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-11.21.48:726][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-11.21.48:727][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.28-11.21.48:748][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.11.28-11.21.48:889][940]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.11.28-11.21.50:281][ 60]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-11.21.50:284][ 60]LogSlate: Window 'Message Log' being destroyed
+[2022.11.28-11.22.05:310][584]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:311][584]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:311][584]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:314][584]LogLinker: Warning: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:314][584]LogLinker: Warning: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:316][584]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.05:316][584]LoadErrors: Failed to load /Game/MapasC/MapBlockOut_BuiltData.MapBlockOut_BuiltData Referenced by PersistentLevel
+[2022.11.28-11.22.05:338][584]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.11.28-11.22.05:338][584]LogObjectTools: Currently 3 active worlds: /Game/Menu/MainMContactM.MainMContactM, /Engine/Transient.World_0, /Engine/Transient.World_5
+[2022.11.28-11.22.05:351][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.28-11.22.06:822][584]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.22.06:842][584]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.22.06:843][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.22.06:927][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.28-11.22.06:947][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.28-11.22.06:958][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.28-11.22.09:327][851]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap_BuiltData.uasset: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.09:327][851]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap_BuiltData.uasset: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.09:327][851]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap_BuiltData.uasset: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.09:327][851]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\ThirdPersonBP\Maps\ThirdPersonExampleMap_BuiltData.uasset: Failed to load '/Game/MapasC/MapBlockOut_BuiltData': Can't find file.
+[2022.11.28-11.22.09:327][851]LoadErrors: Failed to load /Game/MapasC/MapBlockOut_BuiltData.MapBlockOut_BuiltData Referenced by ThirdPersonExampleMap_BuiltData
+[2022.11.28-11.22.09:339][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.28-11.22.10:742][851]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.22.10:971][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.28-11.22.11:020][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.22.11:031][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.28-11.22.38:803][664]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WidgetsDialog/main.main
+[2022.11.28-11.22.42:775][ 67]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.22.42:775][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.22.42:781][ 67]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.22.42:781][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.22.45:928][358]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Blueprints/WidgetsDialog/ContactMeLogo_1.ContactMeLogo_1
+[2022.11.28-11.22.45:991][358]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.11.28-11.22.48:329][509]LogSlate: Window 'ContactMeLogo_1' being destroyed
+[2022.11.28-11.22.52:315][884]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WidgetsDialog/Prologo/Beggining.Beggining
+[2022.11.28-11.22.55:480][176]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.22.55:480][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.22.55:491][176]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.22.55:491][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.22.59:911][647]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WidgetsDialog/Prologo/1.1
+[2022.11.28-11.23.01:878][818]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.23.01:878][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.23.01:887][818]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.23.01:887][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.23.25:771][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.11.28-11.23.27:050][211]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.23.27:278][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.11.28-11.23.27:300][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.28-11.23.27:312][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.23.35:071][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.28-11.23.37:816][961]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.23.38:051][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.28-11.23.38:063][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.38:075][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.28-11.23.38:088][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.38:100][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.23.38:113][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.28-11.23.38:131][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.28-11.23.38:144][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.28-11.23.44:880][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.28-11.23.55:515][642]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.23.55:717][642]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2022.11.28-11.23.58:756][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.28-11.23.58:771][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.58:783][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.58:794][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.28-11.23.58:806][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.58:818][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.23.58:830][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.28-11.23.58:842][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.28-11.23.58:853][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.23.58:865][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.28-11.23.58:877][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.28-11.23.58:890][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.28-11.23.58:902][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.00:944][834]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.28-11.24.01:005][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2022.11.28-11.24.01:005][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2022.11.28-11.24.01:005][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2022.11.28-11.24.01:203][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Advanced_Lighting.umap: Failed to load '/Game/StarterContent/Architecture/SM_AssetPlatform': Can't find file.
+[2022.11.28-11.24.01:203][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform Referenced by SM_AssetPlatform_7
+[2022.11.28-11.24.01:404][834]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.11.28-11.24.01:578][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:578][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:582][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:582][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:582][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:805][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:805][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor
+[2022.11.28-11.24.01:805][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.01:805][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_14
+[2022.11.28-11.24.02:007][834]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.11.28-11.24.02:011][834]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.11.28-11.24.02:548][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.02:548][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.02:548][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.02:548][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.02:548][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.02:549][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.02:549][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.02:568][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.02:568][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.02:568][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.02:568][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.02:569][834]LogLinker: Warning: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.03:188][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:188][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_10
+[2022.11.28-11.24.03:188][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:188][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_11
+[2022.11.28-11.24.03:188][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:188][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_12
+[2022.11.28-11.24.03:221][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:221][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_13
+[2022.11.28-11.24.03:221][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:221][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:221][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_15
+[2022.11.28-11.24.03:222][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:222][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_16
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:247][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_17
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:247][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_18
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:247][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_19
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:247][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_2
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:247][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_20
+[2022.11.28-11.24.03:247][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_21
+[2022.11.28-11.24.03:248][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_22
+[2022.11.28-11.24.03:248][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_23
+[2022.11.28-11.24.03:248][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_24
+[2022.11.28-11.24.03:248][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_25
+[2022.11.28-11.24.03:248][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:248][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_26
+[2022.11.28-11.24.03:249][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:249][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_27
+[2022.11.28-11.24.03:249][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:249][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_28
+[2022.11.28-11.24.03:249][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:249][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_29
+[2022.11.28-11.24.03:249][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:249][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_3
+[2022.11.28-11.24.03:249][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:249][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_30
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:250][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_31
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:250][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_32
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:250][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_33
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:250][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_34
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:250][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_35
+[2022.11.28-11.24.03:250][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_36
+[2022.11.28-11.24.03:251][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_37
+[2022.11.28-11.24.03:251][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_38
+[2022.11.28-11.24.03:251][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_39
+[2022.11.28-11.24.03:251][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_4
+[2022.11.28-11.24.03:251][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:251][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_40
+[2022.11.28-11.24.03:252][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:252][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_41
+[2022.11.28-11.24.03:252][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:252][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_42
+[2022.11.28-11.24.03:252][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:252][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_43
+[2022.11.28-11.24.03:252][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:252][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_5
+[2022.11.28-11.24.03:252][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:252][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_6
+[2022.11.28-11.24.03:253][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:253][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_7
+[2022.11.28-11.24.03:253][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:253][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_8
+[2022.11.28-11.24.03:253][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Floor_400x400': Can't find file.
+[2022.11.28-11.24.03:253][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 Referenced by Floor_9
+[2022.11.28-11.24.03:270][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Window_400x300': Can't find file.
+[2022.11.28-11.24.03:270][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 Referenced by Wall_Door_400x300_6
+[2022.11.28-11.24.03:270][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_Door_400x300': Can't find file.
+[2022.11.28-11.24.03:270][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 Referenced by Wall_Door_400x301_9
+[2022.11.28-11.24.03:270][834]LogLinker: Warning: [AssetLog] D:\Daniel\Documents\Universidad\ULTIMO SEMESTRE\Github\Contact-me\CMProgram\Content\StarterContent\Maps\StarterMap.umap: Failed to load '/Game/StarterContent/Architecture/Wall_400x200': Can't find file.
+[2022.11.28-11.24.03:270][834]LoadErrors: Failed to load /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 Referenced by Wall_Door_400x302
+[2022.11.28-11.24.04:731][834]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.11.28-11.24.04:735][834]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.11.28-11.24.04:739][834]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.11.28-11.24.04:743][834]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.11.28-11.24.04:747][834]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.11.28-11.24.04:752][834]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.11.28-11.24.04:756][834]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.11.28-11.24.04:761][834]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.11.28-11.24.04:765][834]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.11.28-11.24.04:775][834]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.11.28-11.24.04:974][834]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.11.28-11.24.04:974][834]LogObjectTools: Currently 9 active worlds: /Game/Menu/MainMContactM.MainMContactM, /Engine/Transient.World_0, /Engine/Transient.World_5, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18
+[2022.11.28-11.24.04:991][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.11.28-11.24.08:416][834]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.24.08:444][834]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.24.08:444][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.24.08:444][834]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.24.08:444][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.24.08:444][834]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-11.24.08:445][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-11.24.08:614][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.28-11.24.08:628][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.28-11.24.08:641][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.08:653][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.08:665][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.08:678][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.08:697][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.28-11.24.08:710][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.11:168][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.28-11.24.11:174][ 54]LogSavePackage: Moving '../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Saved/MainMContactM1E098656442FE936D186F0B9D9BD9BDC.tmp' to '../../../../../Daniel/Documents/Universidad/ULTIMO SEMESTRE/Github/Contact-me/CMProgram/Content/Menu/MainMContactM.umap'
+[2022.11.28-11.24.11:214][ 54]AssetCheck: New page: Asset Save: MainMContactM
+[2022.11.28-11.24.11:214][ 54]LogContentValidation: Display: Validating World /Game/Menu/MainMContactM.MainMContactM
+[2022.11.28-11.24.12:281][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.28-11.24.15:980][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.28-11.24.25:890][494]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.28-11.24.27:640][494]LogUObjectGlobals: Force Deleting 24 Package(s):
+	Asset Name: /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01
+	Asset Name: /Game/StarterContent/Audio/Steam01.Steam01
+	Asset Name: /Game/StarterContent/Audio/Smoke01.Smoke01
+	Asset Name: /Game/StarterContent/Audio/Fire01.Fire01
+	Asset Name: /Game/StarterContent/Audio/Collapse02.Collapse02
+	Asset Name: /Game/StarterContent/Audio/Collapse01.Collapse01
+	Asset Name: /Game/StarterContent/Audio/Starter_Music01.Starter_Music01
+	Asset Name: /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue
+	Asset Name: /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue
+	Asset Name: /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue
+[2022.11.28-11.24.40:552][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.40:555][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Fire_Sparks01.Fire_Sparks01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.40:555][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire_Sparks01, this package is now potentially corrupt
+[2022.11.28-11.24.42:632][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.42:635][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Steam01.Steam01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Steam01.Steam01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Steam01_Cue.Steam01_Cue:SoundNodeWavePlayer_5 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.42:635][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Steam01, this package is now potentially corrupt
+[2022.11.28-11.24.43:467][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.43:471][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Smoke01.Smoke01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Smoke01_Cue.Smoke01_Cue:SoundNodeWavePlayer_4 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.43:471][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Smoke01, this package is now potentially corrupt
+[2022.11.28-11.24.44:324][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.44:327][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Fire01.Fire01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Fire01.Fire01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Fire01_Cue.Fire01_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.44:327][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Fire01, this package is now potentially corrupt
+[2022.11.28-11.24.45:127][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.45:131][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Collapse02.Collapse02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.45:131][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse02, this package is now potentially corrupt
+[2022.11.28-11.24.45:671][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.45:674][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Collapse01.Collapse01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.45:674][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Collapse01, this package is now potentially corrupt
+[2022.11.28-11.24.46:863][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.46:866][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Music01.Starter_Music01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Music_Cue.Starter_Music_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.46:866][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Music01, this package is now potentially corrupt
+[2022.11.28-11.24.48:887][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.48:890][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.48:890][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind06, this package is now potentially corrupt
+[2022.11.28-11.24.49:824][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.49:828][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.49:828][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Birds01, this package is now potentially corrupt
+[2022.11.28-11.24.50:674][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.50:677][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Starter_Background_Cue.Starter_Background_Cue:SoundNodeWavePlayer_0 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.50:677][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Starter_Wind05, this package is now potentially corrupt
+[2022.11.28-11.24.54:855][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.54:858][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion01.Explosion01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_1 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.54:858][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion01, this package is now potentially corrupt
+[2022.11.28-11.24.55:742][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.55:745][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Explosion02.Explosion02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Explosion_Cue.Explosion_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.55:745][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Explosion02, this package is now potentially corrupt
+[2022.11.28-11.24.57:642][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.57:645][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Light01.Light01 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light01.Light01:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light01_Cue.Light01_Cue:SoundNodeWavePlayer_2 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.57:645][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Light01, this package is now potentially corrupt
+[2022.11.28-11.24.58:588][494]LogSlate: Window 'Message' being destroyed
+[2022.11.28-11.24.58:591][494]Message dialog closed, result: Ok, title: Message, text: SoundWave /Game/StarterContent/Audio/Light02.Light02 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SoundWave /Game/StarterContent/Audio/Light02.Light02:
+   SoundNodeWavePlayer /Game/StarterContent/Audio/Light02_Cue.Light02_Cue:SoundNodeWavePlayer_3 (1)
+      0) ObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWave
+
+
+[2022.11.28-11.24.58:591][494]LogObjectTools: Warning: ForceDeleteObject failed to delete Light02, this package is now potentially corrupt
+[2022.11.28-11.24.59:771][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.28-11.24.59:786][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.59:798][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.28-11.24.59:810][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.59:822][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.59:834][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.59:846][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.59:858][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.28-11.24.59:872][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.28-11.24.59:884][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.28-11.24.59:897][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.28-11.24.59:909][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.28-11.24.59:958][494]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.28-11.25.04:047][494]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.089 s
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3191]
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: 					from the file system manually: 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Fire_Sparks01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Steam01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Smoke01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Fire01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Collapse02
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Collapse01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Music01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Wind06
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Birds01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Starter_Wind05
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Explosion02
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Light01
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: /Game/StarterContent/Audio/Light02
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: Stack: 
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c74794a8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c6d1a9b9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c64740d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c674fbde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c67470b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c81d859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c81f071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80346be UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80b7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80a0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c8093632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff912539197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff912534310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff9381ce858 USER32.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff9381ce299 USER32.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80c2233 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c805d485 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c67dc07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c6d0e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8a4816bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff892b070e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff892b072ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff892af7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8a5080083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8a5079532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8a50f80e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8a507cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c81d859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c81f071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80346be UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80b7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c80a0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff8c8093632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.28-11.25.04:059][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff912539197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff912534310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff9381ce858 USER32.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff9381ce299 USER32.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff91254f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff6e0ea8848 UE4Editor.exe!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff6e0ec117c UE4Editor.exe!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff6e0ec125a UE4Editor.exe!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff6e0ed52bd UE4Editor.exe!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff6e0ed7fea UE4Editor.exe!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff9392574b4 KERNEL32.DLL!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: [Callstack] 0x00007ff93a1c26a1 ntdll.dll!UnknownFunction []
+[2022.11.28-11.25.04:060][494]LogOutputDevice: Error: 
